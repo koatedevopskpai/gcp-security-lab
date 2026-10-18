@@ -10,7 +10,7 @@
 | 1.2 Shared modules | ✅ Complete | `shared/scripts/cleanup.ps1`, `shared/templates/module-scaffold.md` |
 | 1.3 GCP Terraform IaC | 🔜 In Progress | `terraform/*.tf` — VPC, subnets, firewall rules, Cloud NAT, bastion |
 | 1.4 GCP docs | 📋 Planned | Architecture guide, cost analysis, guided walkthrough |
-| 1.5 Git repository | 📋 Planned | Initialize git, commit, push to `github.com/koate-kpai/gcp-security-lab` |
+| 1.5 Git repository | 📋 Planned | Initialize git, commit, push to `github.com/koatedevopskpai/gcp-security-lab` |
 
 ## Key Decisions Made
 

@@ -28,7 +28,7 @@ This repo maps the following 300-745 domains into practical GCP implementations:
 
 ```powershell
 # Clone the repo
-git clone https://github.com/koate-kpai/gcp-security-lab.git
+git clone https://github.com/koatedevopskpai/gcp-security-lab.git
 cd gcp-security-lab
 
 # Navigate to a module
